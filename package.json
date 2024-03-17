@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "@turbowarp/json": "^0.1.1",
+    "@turbowarp/sb3fix": "^0.2.0",
     "ajv": "6.3.0",
     "jszip": "^3.10.1",
     "pify": "4.0.1"
